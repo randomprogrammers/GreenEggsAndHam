@@ -6,7 +6,7 @@ namespace GreenEggsAndHam
     {
         static void Main(string[] args)
         {
-            var sam = new IAmSam(7);
+            var sam = new IAmSam(12);
             sam.Proclaim();
             Console.ReadKey();
         }
